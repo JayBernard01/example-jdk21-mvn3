@@ -15,5 +15,5 @@ mvn install
 mvn exec:java
 ```
 
-# note for wsl
-deactivate threat protection to update maven dependencies, then turn back on after on each load
+# note for wsl with intellij
+deactivate threat protection to update maven dependencies, then turn back on after on each load 
