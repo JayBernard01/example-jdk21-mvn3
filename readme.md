@@ -19,3 +19,6 @@ mvn exec:java
 
 ### note for wsl with intellij
 deactivate threat protection to update maven dependencies, then turn back on after on each load 
+
+## to configure checkstyle
+[linting and automatic for mating](https://chatgpt.com/share/52bf9b34-5cc5-447c-8777-2c97743b5d56)
